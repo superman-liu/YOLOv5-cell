@@ -1,0 +1,9 @@
+path: dataset/cell_seg
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: rbc
+  1: wbc
+  2: crystal
